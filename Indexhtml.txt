@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equilibrium360 - Bienestar Integral para Trabajadores</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Equilibrium360</h1>
+        <p>Plataforma Integral de Bienestar para Trabajadores</p>
+    </header>
+
+    <section id="about">
+        <h2>Reseña de la Empresa</h2>
+        <p>Somos un equipo de profesionales apasionados por el bienestar de los trabajadores, enfocados en mejorar la calidad de vida de los colaboradores de diversas organizaciones.</p>
+    </section>
+
+    <section id="services">
+        <h2>Servicios</h2>
+        <ul>
+            <li><strong>Asesoría en Salud Mental:</strong> Consultas con expertos en gestión de estrés y bienestar emocional.</li>
+            <li><strong>Programas de Fitness Personalizados:</strong> Acceso a rutinas de ejercicio con especialistas en salud física.</li>
+            <li><strong>Educación Financiera:</strong> Consejos y herramientas de planificación financiera.</li>
+        </ul>
+    </section>
+
+    <section id="plans">
+        <h2>Planes de Suscripción</h2>
+        <ul>
+            <li><strong>Plan Pequeña Empresa:</strong> $500/mes</li>
+            <li><strong>Plan Mediana Empresa:</strong> $3,000/mes</li>
+            <li><strong>Plan Corporativo:</strong> $5,000/mes</li>
+        </ul>
+        <p><strong>Ofertas Especiales:</strong> 20% de descuento si se contratan más de 100 empleados y un mes gratuito para pruebas.</p>
+    </section>
+
+    <section id="benefits">
+        <h2>¿Por Qué Elegir Nuestra Plataforma?</h2>
+        <ul>
+            <li><strong>Asesoría en Tiempo Real:</strong> Acceso directo a profesionales de salud en cualquier momento.</li>
+            <li><strong>Resultados Comprobables:</strong> Informes personalizados sobre el progreso en salud y bienestar.</li>
+            <li><strong>Fidelización de Empleados:</strong> Mayor retención y productividad.</li>
+        </ul>
+    </section>
+
+    <footer id="contact">
+        <h2>Contacto</h2>
+        <p>Para más información, contáctenos en: <a href="mailto:info@equilibrium360.com">info@equilibrium360.com</a></p>
+    </footer>
+</body>
+</html>
